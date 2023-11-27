@@ -1,0 +1,2 @@
+# starChart
+Temel yıldız örnekleri
